@@ -1,2 +1,2 @@
-# 2024-K-Means-Clustering-in-Aviation-Company
-This is an assignment from Data Science Boot Camp at dibimbing.id
+# K-Means Clustering in Aviation Company
+In this project, an aviation company's customer dataset is used. Then, we have to cluster this dataset and describe each cluster.
